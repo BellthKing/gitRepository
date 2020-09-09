@@ -1,0 +1,1 @@
+This is a test file that test the link between native and remote repository.
